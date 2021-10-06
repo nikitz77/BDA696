@@ -7,3 +7,5 @@ pyspark-stubs
 sklearn
 sqlalchemy
 ggplot
+pygments
+seaborn
